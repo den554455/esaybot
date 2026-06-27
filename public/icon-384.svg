@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="384" viewBox="0 0 384 384">
+   <defs>
+     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+       <stop offset="0%" style="stop-color:#06FFBF;stop-opacity:1" />
+       <stop offset="100%" style="stop-color:#00D9A0;stop-opacity:1" />
+     </linearGradient>
+     <linearGradient id="gradDark" x1="0%" y1="0%" x2="100%" y2="100%">
+       <stop offset="0%" style="stop-color:#00D9A0;stop-opacity:1" />
+       <stop offset="100%" style="stop-color:#06FFBF;stop-opacity:1" />
+     </linearGradient>
+     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+       <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.3)"/>
+     </filter>
+   </defs>
+   <rect width="384" height="384" rx="76.80000000000001" fill="url(#grad)" filter="url(#shadow)"/>
+   <text x="192" y="261.12" text-anchor="middle" fill="#0D0D0D" 
+         font-size="199.68" font-weight="900" font-family="'Montserrat', 'Arial', sans-serif" 
+         letter-spacing="-1">E</text>
+   <text x="192" y="337.92" text-anchor="middle" fill="#0D0D0D" 
+         font-size="30.72" font-weight="500" font-family="'Montserrat', 'Arial', sans-serif"
+         opacity="0.7">asy Bot</text>
+ </svg>
